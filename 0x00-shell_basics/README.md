@@ -1,1 +1,2 @@
-Prints the absolute path name of the current working directory
+#!/bin/bash
+echo "prints the absolute path name of the current working directory"
