@@ -1,4 +1,4 @@
 #!/bin/bash
-o-current_working_directory
-1-listit
-README.md
+o-current_working_directory 
+- 1-listit
+ - README.md
